@@ -1,0 +1,76 @@
+{
+  "componentList": [
+    {
+      "type": "CarouselView",
+      "data": [
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0bf19a82b109b40c2f5c56d00f071a33",
+          "onclick": "flutterView",
+          "description": "This is product description lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "discount": "40"
+        },
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/z2q4f94qulj4pb8p7kdq",
+          "onclick": "flutterView",
+          "description": "This is product description lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "discount": "50"
+        },
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/iservsmulhi2ifzmxvco",
+          "onclick": "flutterView",
+          "description": "This is product description lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "discount": "60"
+        }
+      ]
+    },
+    {
+      "type": "CarouselView",
+      "data": [
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/poymismten2l3pbit1ui",
+          "onclick": "webView",
+          "discount": "30"
+        },
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/89741ecb1291788f128600a5da5f18b4",
+          "onclick": "webView",
+          "discount": "20"
+        },
+        {
+          "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ee4f041cd8611dccc19f4267783ab5ea",
+          "onclick": "webView",
+          "discount": "40"
+        }
+      ]
+    },
+    {
+      "type": "CategoryView",
+      "data": [
+        {
+          "url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80",
+          "onclick": "/categoryClickHandler/1"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/09dce7b7-ea40-406b-a2c0-a3f57c420b17-1657946362.jpeg?crop=0.660xw:1.00xh;0.0794xw,0&resize=1200:*",
+          "onclick": "/categoryClickHandler/2"
+        },
+        {
+          "url": "https://i.ibb.co/4gYM2CW/delivery-bike-removebg-preview.jpg",
+          "onclick": "/categoryClickHandler/3"
+        },
+        {
+          "url": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1680172150.jpg",
+          "onclick": "/categoryClickHandler/4"
+        }
+      ]
+    },
+    {
+      "type": "RestListView",
+      "data": []
+    },
+    {
+      "type": "TabsView",
+      "data": []
+    }
+  ]
+}
