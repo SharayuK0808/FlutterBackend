@@ -1,7 +1,7 @@
 {
   "componentList": [
     {
-      "type": "CarouselView",
+      "type": "CaraouselView",
       "data": [
         {
           "url": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0bf19a82b109b40c2f5c56d00f071a33",
